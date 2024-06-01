@@ -1,40 +1,40 @@
-﻿notorious
-deadly
-deep
-poison
-jagged
+﻿tenar hina
+mematikan
+dalam
+racun
+berduri
 loyal
-unstoppable
-animal
-bloody
-stonefaced
-ghostface
-suicidal
-manic
-crazy
-wild
-burning
-murderous
-fearful
-terrifying
-smoky
-nutty
-killer
-dark
-furious
-angry
-savage
-blank
-emotionless
-mindless
-awesome
-epic
-murderous
-supreme
-extreme
-mad
-sharp
-bladed
+tak terhentikan
+binatang
+kejam
+muka datar
+topeng hantu
+ingin bunuh diri
+gila-panik
+gila
+buas
+membara
+ingin membunuh
+ketar
+menggegerkan
+berkepul
+sinting
+pembunuh
+gelap
+berang
+marah
+ganas
+hampa
+tak berperasaan
+hilang akal
+mengagumkan
+epik
+ingin membunuh
+agung
+ekstrem
+edan
+tajam
+jago
 
 
 
