@@ -1,17 +1,17 @@
-﻿north
-northeast
-east
-southeast
-south
-southwest
-west
-northwest
+﻿utara
+timur laut
+timur
+tenggara
+selatan
+barat daya
+barat
+barat laut
 
-northern
-northeastern
-eastern
-southeastern
-southern
-southwestern
-western
-northwestern
+utara
+timur laut
+timur
+tenggara
+selatan
+barat daya
+barat
+barat laut
