@@ -1,10 +1,10 @@
 ﻿
 
-red
-black
-gray
-ash
+merah
+hitam
+kelabu
+warna abu
 
-dark
-shadow
-night
+gelap
+bayangan
+malam

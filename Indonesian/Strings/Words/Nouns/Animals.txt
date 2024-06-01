@@ -22,166 +22,166 @@ teledu
 barakuda
 kelelawar
 beruang
-berang-berang
+biwara
 lebah
 bison
-buffalo
-camel
-caribou
-cat
-caterpillar
+kerbau
+unta
+rusa kutub
+kucing
+ulat
 cheetah
-chicken
-chimpanzee
-chinchilla
-clam
-cockroach
-cod
-condor
+ayam
+simpanse
+cincila
+kepah
+kecoa
+ikan kod
+burung kondor
 coyote
-crab
-crane
-crocodile
-crow
-dinosaur
-dog
-dolphin
-donkey
-dove
-eagle
-echidna
-eel
-elephant
-elephant seal
-elk
-emu
-falcon
-ferret
-finch
+kepiting
+burung jenjang
+buaya
+gagak
+dinosaurus
+anjing
+lumba-lumba
+keledai
+burung dara
+elang
+landak semut
+belut
+gajah
+gajah laut
+rusa besar
+burung emu
+alap-alap
+feret
+burung pipit
 flamingo
-fox
-frog
+rubah
+kodok
 gazelle
 gerbil
 panda
-giraffe
-gnat
-goat
-goose
-gorilla
-goshawk
-grasshopper
-grouse
-guinea pig
+jerapah
+agas
+kambing
+soang
+gorila
+elang-alap
+belalang daun
+ayam kaki kasar
+tikus belanda
 hamster
-hare
-hawk
-hedgehog
-heron
-herring
-hippopotamus
-hornet
-horse
-human
-hummingbird
-hyena
-ibis
-jackal
+terwelu
+rajawali
+landak mini
+burung kuntul
+ikan haring
+kuda nil
+tawon tabuhan
+koda
+manusia
+burung kolibri
+hiena
+burung ibis
+jakal
 jaguar
-jay
-bluejay
-kangaroo
+jalak-murai
+jalak-murai biru
+kanguru
 koala
 komodo
 lemur
-leopard
-lion
+macan tutul
+singa
 llama
 lobster
-locust
-lyrebird
-magpie
-mallard
-duck
-manatee
-mandrill
-mantis
-meerkat
+belalang juta
+burung kecapi
+burung kucica
+itik melewar
+itik
+lembu laut
+monyet dukun
+belalang sembah
+mirkat
 mink
-mole
-mongoose
-monkey
-moose
-mouse
-mosquito
-mule
-narwhal
-newt
-octopus
+tikus mondok
+garangan
+monyet
+rusa besar
+mencit
+nyamuk
+bagal
+paus tanduk
+kadal air
+gurita
 okapi
-opossum
-ostrich
-otter
-owl
-ox
-oyster
-panther
-parrot
-partridge
-pelican
+oposum
+burung unta
+berang-berang
+burung hantu
+andeka
+tiram
+macan kumbang
+burung bayan
+burung puyuh gonggong
+pelikan
 penguin
-pheasant
-pig
-pigeon
-polar bear
-porcupine
-porpoise
-prairie dog
-quail
-rabbit
-raccoon
-ram
-rat
-raven
-reindeer
-rhino
+burung pegar
+babi
+merpati
+beruang kutub
+landak
+porpois
+anjing padang rumput
+burung puyuh
+kelinci
+rakun
+domba jantan
+tikus
+gagak gaok
+rusa kutub
+badak
 salamander
 salmon
-sardine
-scorpion
-sea lion
-seahorse
-seal
-shark
-shrew
-skunk
-snail
-snake
-sparrow
-spider
-squid
-stingray
-stinkbug
-stork
-swan
+sarden
+kalajengking
+singa laut
+kuda laut
+anjing laut
+hiu
+celurut
+sigung
+siput
+ular
+burung gereja
+laba-laba
+cumi-cumi
+ikan pari
+kepik daun
+bangau
+angsa
 tapir
-tarsier
-termite
-tiger
-toad
-trout
-turkey
-turtle
+tarsius
+rayap
+harimau
+katak
+ikan forel
+kalkun
+penyu
 viper
-vole
-vulture
+tikus padang
+burung hering
 walrus
-wasp
-weasel
-whale
+tawon
+cerpelai
+paus
 wolverine
 wombat
-woodpecker
-worm
-yak
+burung pelatuk
+cacing
+sapi yak
 zebra

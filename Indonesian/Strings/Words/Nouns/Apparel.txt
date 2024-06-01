@@ -1,27 +1,27 @@
-﻿shirt
-button-down shirt
-formal shirt
-jacket
-raincoat
-formal suit
-evening gown
+﻿baju
+kemeja
+kemeja resmi
+jaket
+mantel hujan
+jas resmi
+gaun malam
 parka
-duster
-space suit
-power armor suit
+mantel debu
+baju ruang angkasa
+baju power armor
 
-bow tie
-necktie
-belt
+dasi kupu-kupu
+dasi
+sabuk
 jock strap
 
-hat
-bowler hat
-baseball cap
-tuque
-top hat
+topi
+topi bowler
+topi bisbol
+kupluk
+topi tinggi
 
-shoe
-boot
+sepatu
+sepatu bot
 sandal
 

@@ -1,11 +1,11 @@
-﻿village
-village
-town
-town
-township
-hamlet
-district
-city
-settlement
-encampment
-campsite
+﻿desa
+desa
+kota
+kota
+kotapraja
+dusun
+distrik
+kota madya
+pemukiman
+perkemahan
+perkemahan

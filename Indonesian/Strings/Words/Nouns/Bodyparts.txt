@@ -1,31 +1,31 @@
-﻿head
-eye
-nose
-mouth
-tooth
-fang
-cheek
-chin
-lip
-ear
-neck
-body
-chest
-shoulder
-arm
-elbow
-wrist
-hand
-palm
-finger
-claw
-talon
-wing
-hip
-leg
-knee
-ankle
-foot
-heel
-toe
-paw
+﻿kepala
+mata
+hidung
+mulut
+gigi
+taring
+pipi
+dagu
+bibir
+telinga
+leher
+badan
+dada
+bahu
+lengan
+siku
+pergelangan tangan
+tangan
+telapak
+jari tangan
+cakar
+taji
+sayap
+pinggul
+tungkai
+lutut
+pergelangan kaki
+kaki
+tumit
+jari kaki
+kaki (paw)
