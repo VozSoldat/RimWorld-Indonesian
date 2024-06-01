@@ -1,22 +1,22 @@
 // Things that natural objects could conceivably be (with some flex for poetry)
 // Animals, body parts
 
-big
-rough
-harsh
-tall
-sharp
-craggy
-free
-prime
-small
-old
-round
-strange
-wise
-icy
-bad
-good
-far
-dead
-hardy
+besar
+kasar
+keras
+tinggi
+runcing
+kasar
+bebas
+utama
+kecil
+tua
+bulat
+aneh
+bijak
+licin
+buruk
+baik
+jauh
+mati
+berani

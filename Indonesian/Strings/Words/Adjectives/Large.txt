@@ -1,22 +1,22 @@
-﻿large
-massive
-colossal
-enormous
-extensive
-gargantuan
-gigantic
-grand
-huge
-immense
-imposing
+﻿besar
+masif
+kolosal
+sangat besar
+luas
+raksasa
+gigantis
+utama
+besar
+besar sekali
+membebani
 mammoth
-impressive
+mengesankan
 monumental
-substantial
-towering
-tremendous
-vast
-hulking
-mighty
-monstrous
-titanic
+substansial
+menjulang
+mahadahsyat
+luas
+bagur
+hebat
+besar sekali
+gergasi
